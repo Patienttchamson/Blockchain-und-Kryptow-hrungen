@@ -1,6 +1,8 @@
 # Blockchain-und-Kryptowährungen
 
-How to Test the application?
+To understand how the application was developed, please read the paper.
+
+To Test the application, please follow these steps :
 
 A. Install nodejs
 B. Edit the variable : _dirname = 'C:/Users/Patient/Desktop/Test_html/Kriptowährung_App/' with your own path where the folder was downloaded
