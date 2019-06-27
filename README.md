@@ -1,1 +1,1 @@
-# Blockchain-und-Kryptow-hrungen
+# Blockchain-und-Kryptowährungen
