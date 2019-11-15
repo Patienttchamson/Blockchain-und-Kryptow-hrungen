@@ -1,8 +1,8 @@
 # Blockchain-und-Kryptowährungen
 
-To understand how the application was developed, please read the white paper.
+To understand how the application was developed, please read the white paper here.
 
-To Test the application, please follow these steps :
+To Test the application, please follow the steps below:
 
 A. Install nodejs 
 
@@ -10,13 +10,13 @@ B. Edit the variable : _dirname = 'C:/Users/Patient/Desktop/Test_html/Kriptowäh
 
 C. Start the app typing: node server.js and follow the process below.
 
-1. Because a project have to be created by a admin, we created in our home page 2 buttons
+1. Because a project have to be created by an admin, we created in our home page 2 buttons
 
-2. Admin need his seed to access his home page
+2. Admin needs his seed to access his home page
 
 3. Here admin can create a new project
 
-4. After created a new project, he can also give any Options and criterion, and then evaluate them, but in this video we let user directly evaluate the projet
+4. After created a new project, he can also give some options and criterion, and then evaluate them, but in the video we let user directly evaluate the projet
 
 5. User can access directly the evaluation page
 
