@@ -1,6 +1,6 @@
 # Blockchain-und-Kryptowährungen
 
-To understand how the application was developed, please read the white paper here.
+To understand how the application was developed, please read the white paper (https://github.com/Patienttchamson/Blockchain-und-Kryptow-hrungen/blob/master/Kryptow%C3%A4rung_Dapp_Paper.pdf).
 
 To Test the application, please follow the steps below:
 
