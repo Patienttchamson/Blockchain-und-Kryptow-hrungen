@@ -22,7 +22,7 @@ C. Start the app typing: node server.js and follow the process below.
 
 6. User can also now enter any options and criteria, and then evaluate them
 
-7. User can add one more Options as desired
+7. User can add one more options as desired
 
 8. User can now enter one or more criteria :
 		The first field is the connexion of the criterion to option 1, the second is the connexion of the criterion to option 2, etc ... 
@@ -31,4 +31,4 @@ C. Start the app typing: node server.js and follow the process below.
 
 9. User can now at more criteria and fill them up with the same technique as previous
 
-10. After the criteria are submited, we can see the result
+10. After the criteria are submited, we can see the result(https://drive.google.com/file/d/1a_F36-ycpKN7cOCYyxjya3rPo2cqXfeT/view)
